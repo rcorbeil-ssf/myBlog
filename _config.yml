@@ -1,4 +1,4 @@
-baseurl: myBlog # the subpath of your site, e.g. /blog/
+baseurl: /myBlog # the subpath of your site, e.g. /blog/
 
 # Site settings
 title: My first really cool page!
