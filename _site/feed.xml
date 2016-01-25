@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My first page</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>My first really cool page!</title>
+    <description>Here is an awesome description for my new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://softstackfactory.github.io//</link>
-    <atom:link href="http://softstackfactory.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jan 2016 20:02:37 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2016 20:02:37 +0000</lastBuildDate>
+    <link>http://rcorbeil-ssl.github.io//</link>
+    <atom:link href="http://rcorbeil-ssl.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 Jan 2016 02:04:30 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 02:04:30 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 May 2015 16:25:46 +0000</pubDate>
-        <link>http://softstackfactory.github.io//jekyll/update/2015/05/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://softstackfactory.github.io//jekyll/update/2015/05/22/welcome-to-jekyll.html</guid>
+        <link>http://rcorbeil-ssl.github.io//jekyll/update/2015/05/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://rcorbeil-ssl.github.io//jekyll/update/2015/05/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
